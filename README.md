@@ -7,7 +7,7 @@ Berikut beberapa proyek yang sudah saya buat:
 
 ## 🚀 Proyek Portofolio
 
-### 📝 Curriculum Vitae 
+### 📝 [Curriculum Vitae] 
 (https://curriculum-vitae-liart.vercel.app)
 - Riwayat Kerja Saya.
 - Tech Stack: HTML, Vanilla CSS
@@ -15,7 +15,7 @@ Berikut beberapa proyek yang sudah saya buat:
 
 ---
 
-### 🛒 Freacommerce
+### 🛒 [Freacommerce]
 (https://freacommerce.vercel.app/)
 - E-Commerce Ringan Tanpa Database.
 - Tech Stack: HTML, Javascript, Vanilla CSS
@@ -23,8 +23,8 @@ Berikut beberapa proyek yang sudah saya buat:
 
 ---
 
-### 🗣️ Uncensored Opinion
-(https://uncensopn.vercel.app/))
+### 🗣️ [Uncensored Opinion]
+(https://uncensopn.vercel.app/)
 - Full Website Forum, Dengan Database, dan Auth).
 - Tech Stack: VueJs, dan Firebase
 - 🔗 [GitHub Repo](https://github.com/feelfool/uncensopn)
@@ -33,12 +33,13 @@ Berikut beberapa proyek yang sudah saya buat:
 (ini adalah aplikasi desktop untuk tugas kuliah, tidak dideploy ke web)
 - Sistem Inventori Sekolah
 - Tech Stack: PHP, Mysql, Java
+- 🔗 [Github Repo]
 (https://github.com/feelfool/Sistem-Invetori-Sekolah)
 
 ---
 
 ## 📫 Kontak Saya
 - Email: yusrantabrani58@gmail.com
-- LinkedIn :
-[https://www.linkedin.com/in/yusran-tabrani-302639131?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- GitHub: [https://github.com/feelfool]
+- LinkedIn : [Yusran Tabrani]
+(https://www.linkedin.com/in/yusran-tabrani-302639131?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [GitHub] (https://github.com/feelfool)
