@@ -10,7 +10,7 @@ Berikut beberapa proyek yang sudah saya buat:
 📝 [Curriculum Vitae](https://curriculum-vitae-liart.vercel.app)
 - Riwayat Kerja Saya.
 - Tech Stack: HTML, Vanilla CSS
-- 🔗 [GitHub Repo](https://github.com/feelfool/CurriculumVitae))
+- 🔗 [GitHub Repo](https://github.com/feelfool/CurriculumVitae)
 
 ---
 
